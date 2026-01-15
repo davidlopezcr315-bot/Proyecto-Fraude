@@ -1,0 +1,14 @@
+country_code,country_name,region,currency,risk_tier,population_millions,gdp_per_capita
+US,United States,North America,USD,low,331.0,63000
+GB,United Kingdom,Europe,GBP,low,67.0,42000
+FR,France,Europe,EUR,low,67.0,40000
+DE,Germany,Europe,EUR,Low,83.0,46000
+ES,Spain,Europe,EUR,LOW,47.0,27000
+NL,Netherlands,Europe,EUR,medium,17.0,52000
+IT,Italy,Europe,EUR,Medium,60.0,32000
+TR,Turkey,Asia,TRY,high,84.0,9000
+RO,Romania,Europe,RON,HIGH,19.0,12500
+PL,Poland,Europe,PLN,medium,38.0,15500
+usa,United States of America,North America,USD,bajo,331.0,63000
+uk,Great Britain,Europe,GBP,low,67.0,42000
+XX,Unknown,Unknown,,,,-999
